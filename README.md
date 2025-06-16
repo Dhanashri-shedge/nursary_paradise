@@ -24,7 +24,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nursery_paradise.git
+   git clone https://github.com/Dhanashri-shedge/nursery_paradise.git
    ```
 2. Navigate to the project directory:
 
